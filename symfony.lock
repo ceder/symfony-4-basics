@@ -128,15 +128,6 @@
     "doctrine/reflection": {
         "version": "v1.0.0"
     },
-    "easycorp/easyadmin-bundle": {
-        "version": "1.17",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "1.17",
-            "ref": "66070ea553247b0cd5275e21d0fe5399a25f40be"
-        }
-    },
     "egulias/email-validator": {
         "version": "2.1.4"
     },
@@ -190,9 +181,6 @@
     },
     "openlss/lib-array2xml": {
         "version": "0.0.10"
-    },
-    "pagerfanta/pagerfanta": {
-        "version": "v1.1.0"
     },
     "phpdocumentor/reflection-common": {
         "version": "1.0.1"
@@ -290,9 +278,6 @@
             "ref": "e921bdbfe20cdefa3b82f379d1cd36df1bc8d115"
         }
     },
-    "symfony/form": {
-        "version": "v4.1.1"
-    },
     "symfony/framework-bundle": {
         "version": "3.3",
         "recipe": {
@@ -309,9 +294,6 @@
         "version": "v4.1.1"
     },
     "symfony/inflector": {
-        "version": "v4.1.1"
-    },
-    "symfony/intl": {
         "version": "v4.1.1"
     },
     "symfony/maker-bundle": {
@@ -335,9 +317,6 @@
             "ref": "18ebf5a940573a20de06f9c4060101eeb438cf3d"
         }
     },
-    "symfony/options-resolver": {
-        "version": "v4.1.1"
-    },
     "symfony/orm-pack": {
         "version": "v1.0.5"
     },
@@ -349,9 +328,6 @@
             "version": "4.1",
             "ref": "1a47f76dcd9d5d4da1fab54fb15450bae3704c5e"
         }
-    },
-    "symfony/polyfill-intl-icu": {
-        "version": "v1.8.0"
     },
     "symfony/polyfill-mbstring": {
         "version": "v1.8.0"
@@ -427,15 +403,6 @@
     },
     "symfony/yaml": {
         "version": "v4.1.1"
-    },
-    "twig/extensions": {
-        "version": "1.0",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "1.0",
-            "ref": "4851df0afc426b8f07204379d21fca25b6df5d68"
-        }
     },
     "twig/twig": {
         "version": "v2.5.0"
